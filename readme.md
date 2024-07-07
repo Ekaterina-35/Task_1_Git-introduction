@@ -20,3 +20,11 @@ Git Logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 - [Добавляем изменения](/pages/changes.md)
 
 - [Работа с ветками](/pages/Branches.md)
+
+- [Проверка репозитория](/gitchecking.md)
+
+- [Ставим теги](/pages/tags.md)
+
+- [Отмена коммитов и внесение изменений](/pages/erros.md)
+
+- 
