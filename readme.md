@@ -27,4 +27,6 @@ Git Logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 
 - [Отмена коммитов и внесение изменений](/pages/erros.md)
 
-- 
+- [Разрешение конфликтов слияния](/pages/conflict.md)
+
+- [Git ignore](/gitignore.md)
