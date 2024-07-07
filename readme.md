@@ -21,7 +21,7 @@ Git Logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 
 - [Работа с ветками](/pages/Branches.md)
 
-- [Проверка репозитория](/gitchecking.md)
+- [Проверка репозитория](/pages/gitchecking.md)
 
 - [Ставим теги](/pages/tags.md)
 
@@ -29,4 +29,4 @@ Git Logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 
 - [Разрешение конфликтов слияния](/pages/conflict.md)
 
-- [Git ignore](/gitignore.md)
+- [Git ignore](/pages/gitignore.md)
