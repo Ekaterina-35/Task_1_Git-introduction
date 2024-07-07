@@ -18,3 +18,5 @@ Git Logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 - [Создаем репозиторий](/pages/repositorij.md)
 
 - [Добавляем изменения](/pages/changes.md)
+
+- [Работа с ветками](/pages/Branches.md)
