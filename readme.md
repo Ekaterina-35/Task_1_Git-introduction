@@ -11,7 +11,7 @@ Git Logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 
 ### Содержание
 
-- [Что такое GIT](/pages/Git%20it)
+- [Что такое GIT](/pages/Gitit.md)
 
 - [Начало работы с GIT](/pages/startgit.md)
 
